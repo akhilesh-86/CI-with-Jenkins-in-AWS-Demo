@@ -3,3 +3,6 @@ on Jenkins Machine
 =============================
 1. downgraded jdk from jdk11 to jdk8 (https://flicsdb.com/how-to-downgrade-java-on-ubuntu-kali-linux/)
 2. Updated the pom.xml for compilation pluging
+
+
+https://stackoverflow.com/questions/49028810/error-source-option-1-5-is-no-longer-supported-use-1-6-or-later
