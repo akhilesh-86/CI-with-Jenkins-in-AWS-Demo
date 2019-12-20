@@ -1,0 +1,5 @@
+For Executing the war file on Ubuntu 18 instead of Ubuntu 16, did following workarounds 
+on Jenkins Machine
+=============================
+1. downgraded jdk from jdk11 to jdk8 (https://flicsdb.com/how-to-downgrade-java-on-ubuntu-kali-linux/)
+2. Updated the pom.xml for compilation pluging
