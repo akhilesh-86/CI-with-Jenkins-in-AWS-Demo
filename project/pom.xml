@@ -11,7 +11,7 @@
     <packaging>war</packaging>
     <name>Project</name>
  <dependencies>
-        <!-- runtime dependency -->
+        <!-- runtime dependency --> 
         <dependency>
             <groupId>hsqldb</groupId>
             <artifactId>hsqldb</artifactId>
